@@ -25,6 +25,7 @@ A seasoned professional transitioning into the realms of Data Science and Machin
 - **Soil Data Clustering**: Employing k-means clustering to classify soil data from Northern Greece.
 - **Market Basket Analysis**: Analyzing international visitation data to find associative rules.
 - **Abalone Age Prediction**: Using PCA and linear regression to estimate abalone ages from physical data.
+- **Titanic Survival Prediction**: Analyzing the Titanic dataset to predict survival rates using machine learning in Python. The project demonstrates data cleaning, exploratory data analysis, and the application of classification algorithms.
 
 ### Skills and Technologies
 - **Programming Languages**: Proficient in R and Python with experience in statistical analysis, predictive modeling, and data visualization.
@@ -38,7 +39,7 @@ A seasoned professional transitioning into the realms of Data Science and Machin
 
 ### Contact
 Let's connect! For collaboration or inquiries, feel free to reach out.
-- LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/alexandrospolyzoidis/)
 - Email: [polyzoidis@hotmail.com](mailto:polyzoidis@hotmail.com)
 
 ---
