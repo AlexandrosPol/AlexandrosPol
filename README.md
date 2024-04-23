@@ -1,37 +1,45 @@
-![Header](URL_TO_YOUR_IMAGE)
-
 # Alexandros Polyzoidis
-## Data Scientist
 
-Welcome to my GitHub profile! I'm Data Scientist and Machine Learning expert, with a solid foundation in Logistics & Supply Chain Management and Tech Sales. My journey is marked by a passion for turning data into strategic insights, leveraging advanced analytics and data visualization to solve complex business problems. Proficient in Python, R, SQL, and visualization tools like Tableau, I aim to bridge the gap between data science and operational excellence, driving growth through informed decisions.
+## Data Scientist and Machine Learning Enthusiast
 
-### Top Repositories
+### Professional Summary
+A seasoned professional transitioning into the realms of Data Science and Machine Learning. My journey involves a dedicated focus on extracting strategic insights from data and utilizing advanced analytics and visualization to solve complex business challenges. With proficiency in Python, R, SQL, and various visualization tools, I aim to bridge the gap between technical data science prowess and actionable business intelligence.
 
-- [Data-Science-Projects]([https://github.com/AlexandrosPol/Data-Science-Projects])
-### Skills
+### Education
+- **M.S., Data Science & Machine Learning** - Hellenic Open University (2023-present)
+- **M.S., Logistics & Supply Chain Management** - Aristotelian institution (March 2017)
+- **B.S., Economics** - Aristotelian institution (March 2015)
 
-![Python](file:///C:/Users/apoly/Downloads/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565.svg) ![Machine Learning](URL_TO_ML_BADGE)
+### Work Experience
+- **SaaS Sales Specialist, Revenue Department** (January 2022 - Present)
+  - Utilizing data analysis to enhance sales strategies and client engagement.
+  - Creating data visualizations to distill complex metrics into actionable insights.
+  
+- **Account Manager, Sales Department** (May 2021 - January 2022)
+  - Fostering client relationships through informed and strategic approaches.
 
-### Find me around the web 🌎:
-- Sharing updates on [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/alexandrospolyzoidis/))
+- **Transportation Manager** (April 2018 - July 2019)
+  - Driving operational improvements through the implementation of data-driven strategies.
+
+### Projects
+- **Soil Data Clustering**: Employing k-means clustering to classify soil data from Northern Greece.
+- **Market Basket Analysis**: Analyzing international visitation data to find associative rules.
+- **Abalone Age Prediction**: Using PCA and linear regression to estimate abalone ages from physical data.
+
+### Skills and Technologies
+- **Programming Languages**: Proficient in R and Python with experience in statistical analysis, predictive modeling, and data visualization.
+- **Database Management**: Skilled in SQL, with experience in PostgreSQL and pgAdmin.
+- **Data Visualization**: Proficient in creating engaging visualizations with tools like Tableau.
+
+### Certifications
+- **15 Days of SQL**: Mastering complex SQL queries.
+- **Python A-Z™**: Hands-on experience in Python for data analysis and visualization.
+- **R Programming A-Z™**: Enhancing statistical modeling skills in R.
+
+### Contact
+Let's connect! For collaboration or inquiries, feel free to reach out.
+- LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
+- Email: [polyzoidis@hotmail.com](mailto:polyzoidis@hotmail.com)
 
 ---
-![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
-
-
-
-
-<!--
-**AlexandrosPol/AlexandrosPol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
