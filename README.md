@@ -39,7 +39,7 @@ A seasoned professional transitioning into the realms of Data Science and Machin
 
 ### Contact
 Let's connect! For collaboration or inquiries, feel free to reach out.
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/alexandrospolyzoidis/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/alexandrospolyzoidis/)
 - Email: [polyzoidis@hotmail.com](mailto:polyzoidis@hotmail.com)
 
 ---
