@@ -7,8 +7,7 @@ Welcome to my GitHub profile! I'm Data Scientist and Machine Learning expert, wi
 
 ### Top Repositories
 
-- [Data-Science-Projects]([URL_TO_YOUR_REPO](https://github.com/AlexandrosPol/Data-Science-Projects/))
-
+- [Data-Science-Projects]([https://github.com/AlexandrosPol/Data-Science-Projects])
 ### Skills
 
 ![Python](URL_TO_PYTHON_BADGE) ![Machine Learning](URL_TO_ML_BADGE)
