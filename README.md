@@ -31,11 +31,14 @@ A seasoned professional transitioning into the realms of Data Science and Machin
 - **Programming Languages**: Proficient in R and Python with experience in statistical analysis, predictive modeling, and data visualization.
 - **Database Management**: Skilled in SQL, with experience in PostgreSQL and pgAdmin.
 - **Data Visualization**: Proficient in creating engaging visualizations with tools like Tableau.
+- Tableau Public Profile: View my [Tableau visualizations](https://public.tableau.com/app/profile/alexandros.polyzoidis/vizzes). Showcasing a range of data stories created with Tableau.
+
 
 ### Certifications
 - **15 Days of SQL**: Mastering complex SQL queries.
 - **Python A-Z™**: Hands-on experience in Python for data analysis and visualization.
 - **R Programming A-Z™**: Enhancing statistical modeling skills in R.
+- **Tableau A-Z™**: Hands-On Tableau Training for Data Science - Acquired expertise in Tableau for creating powerful data visualizations and dashboards to communicate data-driven findings.
 
 ### Contact
 Let's connect! For collaboration or inquiries, feel free to reach out.
