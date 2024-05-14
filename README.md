@@ -46,4 +46,3 @@ Let's connect! For collaboration or inquiries, feel free to reach out.
 - Email: [polyzoidis@hotmail.com](mailto:polyzoidis@hotmail.com)
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
