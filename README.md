@@ -7,8 +7,8 @@ A seasoned professional transitioning into the realms of Data Science and Machin
 
 ### Education
 - **M.S., Data Science & Machine Learning** - Hellenic Open University (2023-present)
-- **M.S., Logistics & Supply Chain Management** - Aristotelian institution (March 2017)
-- **B.S., Economics** - Aristotelian institution (March 2015)
+- **M.S., Logistics & Supply Chain Management** - Aristotle University of Thessaloniki (March 2017)
+- **B.S., Economics** - Aristotle University of Thessaloniki (March 2015)
 
 ### Work Experience
 - **SaaS Sales Specialist, Revenue Department** (January 2022 - Present)
