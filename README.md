@@ -11,7 +11,7 @@ A seasoned professional transitioning into the realms of Data Science and Machin
 - **B.S., Economics** - Aristotle University of Thessaloniki (March 2015)
 
 ### Work Experience
-- **SaaS Sales Specialist, Revenue Department** (January 2022 - Present)
+- **SaaS B2B Sales & Strategy Analyst, Revenue Dpt** (January 2022 - Present)
   - Utilizing data analysis to enhance sales strategies and client engagement.
   - Creating data visualizations to distill complex metrics into actionable insights.
   
