@@ -3,7 +3,7 @@
 ## Data Scientist and Machine Learning Engineer
 
 ### Professional Summary
-A seasoned professional transitioning into the realms of Data Science and Machine Learning. My journey involves a dedicated focus on extracting strategic insights from data and utilizing advanced analytics and visualization to solve complex business challenges. With proficiency in Python, R, SQL, Azure Cloud Services, Machine Learning algorithms and various visualization tools, I aim to bridge the gap between technical data science prowess and actionable business intelligence.
+A professional Data Scientist and Machine Learning Engineer. My journey involves a dedicated focus on extracting strategic insights from data and utilizing advanced analytics and visualization to solve complex business challenges. With proficiency in Python, R, SQL, Azure Cloud Services, Machine Learning algorithms and various visualization tools, I aim to bridge the gap between technical data science prowess and actionable business intelligence.
 
 ### Education
 - **M.S., Data Science & Machine Learning** - Hellenic Open University (2023-present)
