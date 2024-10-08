@@ -11,7 +11,7 @@ I'm a dedicated Data Scientist and Machine Learning Engineer with a passion for 
 - **B.S., Economics** - Aristotle University of Thessaloniki (March 2015)
 
 ### Work Experience
-- **Data Scientist & ML Engineer** (October 2023-Present)
+- **Data Scientist & ML Engineer, Freelancing** (October 2023-Present)
   - Developing and implementing machine learning clustering models for customer segmentation, optimizing marketing strategies and improving
     customer targeting for e-commerce companies.
   - Participated in Kaggle competitions, creating deep learning models for label and image classification, and enhancing computer vision
