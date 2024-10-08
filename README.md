@@ -3,7 +3,10 @@
 ## Data Scientist and Machine Learning Engineer
 
 ### Professional Summary
-I'm a dedicated Data Scientist and Machine Learning Engineer with a passion for turning complex data into actionable insights. Over the years, I've honed my skills in building machine learning models that not only predict outcomes accurately but also provide strategic value to businesses. I enjoy working with tools like Python, R, SQL, and Azure Cloud Services, and I love exploring how data visualization and advanced analytics can solve real-world problems. My goal is to bridge the gap between technical expertise and business needs, helping organizations make smarter, data-driven decisions.
+Data Scientist with expertise in tech-sales, logistics, finance, and quantitative analysis. Currently pursuing a Master’s in Data Science and Machine
+Learning. Certified Azure Data Scientist Associate. Skilled in Python, R, SQL, Microsoft Azure, Tableau, mathematics and statistics. Experienced in
+data visualization and analysis to drive business decisions. Developed ML clustering projects for e-commerce customer segmentation and personal
+deep learning projects on Kaggle for image classification and computer vision.
 
 ### Education
 - **M.S., Data Science & Machine Learning** - Hellenic Open University (2023-present)
