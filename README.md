@@ -11,7 +11,13 @@ I'm a dedicated Data Scientist and Machine Learning Engineer with a passion for 
 - **B.S., Economics** - Aristotle University of Thessaloniki (March 2015)
 
 ### Work Experience
-- **SaaS B2B Sales & Strategy Analyst, Revenue Dpt** (January 2022 - Present)
+- **Data Scientist & ML Engineer** (October 2023-Present)
+  - Developing and implementing machine learning clustering models for customer segmentation, optimizing marketing strategies and improving
+    customer targeting for e-commerce companies.
+  - Participated in Kaggle competitions, creating deep learning models for label and image classification, and enhancing computer vision
+    techniques, with projects available on my GitHub.
+
+- **SaaS B2B Sales & Strategy Analyst, Revenue Dpt** (January 2022 - May 2024)
   - Utilizing data analysis to enhance sales strategies and client engagement.
   - Creating data visualizations to distill complex metrics into actionable insights.
   
