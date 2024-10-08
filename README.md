@@ -48,6 +48,13 @@ deep learning projects on Kaggle for image classification and computer vision.
 - **Python A-Z™**: Hands-on experience in Python for data analysis and visualization.
 - **R Programming A-Z™**: Enhancing statistical modeling skills in R.
 - **Tableau A-Z™**: Hands-On Tableau Training for Data Science - Acquired expertise in Tableau for creating powerful data visualizations and dashboards to communicate data-driven findings.
+- **Microsoft Certified: Azure Data Scientist Associate**:
+  - Designing and creating a suitable working environment for data science workloads.
+  - Exploring data.
+  - Training machine learning models.
+  - Implementing pipelines.
+  - Running jobs to prepare for production.
+  - Managing, deploying, and monitoring scalable machine learning solutions.
 
 ### Contact
 Let's connect! For collaboration or inquiries, feel free to reach out.
