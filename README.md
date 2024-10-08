@@ -35,6 +35,9 @@ deep learning projects on Kaggle for image classification and computer vision.
 - **Market Basket Analysis**: Analyzing international visitation data to find associative rules.
 - **Abalone Age Prediction**: Using PCA and linear regression to estimate abalone ages from physical data.
 - **Titanic Survival Prediction**: Analyzing the Titanic dataset to predict survival rates using machine learning in Python. The project demonstrates data cleaning, exploratory data analysis, and the application of classification algorithms.
+- **Credit Card Fraud Detection**: This project involves building a deep learning neural network to detect fraudulent transactions in credit card data. The dataset is highly imbalanced, so techniques like SMOTE are used to improve detection. The model achieves high accuracy and precision for both fraud and non-fraud cases.
+- **Card Deck - Image Classification**: This project involves classifying images of playing cards into their respective categories using deep learning. The dataset consists of images of playing cards, and the task is to correctly identify the rank and suit of each card. The project employs a convolutional neural network (CNN) implemented in PyTorch. The model is trained using a transfer learning approach with a pre-trained network from the timm library, specifically designed for image classification tasks.
+
 
 ### Skills and Technologies
 - **Programming Languages**: Proficient in R and Python with experience in statistical analysis, predictive modeling, and data visualization.
