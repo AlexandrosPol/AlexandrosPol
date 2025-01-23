@@ -56,12 +56,6 @@ Explore my work on [Tableau Public](https://public.tableau.com/app/profile/alexa
 
 ---
 
-## 📈 **GitHub Stats**
-![Alexandros's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexandrosPol&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrosPol&layout=compact&theme=radical)
-
----
-
 ### 📫 **Contact**  
 I am open to collaborations and new opportunities! Feel free to reach out:  
 
