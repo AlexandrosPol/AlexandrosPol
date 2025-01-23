@@ -61,10 +61,11 @@ Explore my work on [Tableau Public](https://public.tableau.com/app/profile/alexa
 
 ---
 
-## 📫 **Contact**  
+### 📫 **Contact**  
 I am open to collaborations and new opportunities! Feel free to reach out:  
-- **LinkedIn**: [Alexandros Polyzoidis](https://www.linkedin.com/in/alexandrospolyzoidis/)
-- **Personal Website**: [Alexandros Polyzoidis](https://alexandrospol.github.io/) 
-- **Email**: [apolyzoidis@hotmail.com](mailto:apolyzoidis@hotmail.com) 
+
+- 💼 **[LinkedIn](https://www.linkedin.com/in/alexandrospolyzoidis/)**  
+- 🌐 **[Personal Website](https://alexandrospol.github.io/)**  
+- 📧 **[Email](mailto:apolyzoidis@hotmail.com)**  
 
 ---
