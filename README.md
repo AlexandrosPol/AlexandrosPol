@@ -11,7 +11,7 @@ I am a data scientist with expertise in logistics, e-commerce, and finance, leve
 
 ## 🚀 **Projects**
 ### 1. [Sentiment Analysis for Tourism Insights](https://www.petrareviewsai.com/)  
-- **Description**: Analyzing Google Maps reviews of Petra to classify sentiments using BERT.  
+- **Description**: Analyzing Google Maps and Tripadvisor reviews of Petra to classify sentiments using BERT.  
 - **Technologies**: RoBERTa, DistilBERT, PyTorch, Chart.js.
 
 ### 2. [Endangered Species Classifier](https://endangered-species-app-2024-626612794e72.herokuapp.com/)  
