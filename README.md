@@ -9,24 +9,24 @@ I am a data scientist with expertise in logistics, e-commerce, and finance, leve
 
 ---
 
-## 🚀 **Projects**  
-### 1. [Emotion Classifier API](https://github.com/AlexandrosPol/emotion-classifier)  
-- **Description**: FastAPI-based application for image emotion classification ("happy" or "sad"). Deployed on Heroku.  
-- **Technologies**: TensorFlow, FastAPI, Heroku, Docker, HTML/CSS/JavaScript.  
-
-### 2. [Endangered Species Classifier](https://github.com/AlexandrosPol/endangered-species-classifier)  
+## 🚀 **Projects**
+### 1. [Sentiment Analysis for Tourism Insights](https://www.petrareviewsai.com/)  
+- **Description**: Analyzing Google Maps reviews of Petra to classify sentiments using BERT.  
+- **Technologies**: RoBERTa, DistilBERT, PyTorch, Chart.js.
+- 
+### 2. [Endangered Species Classifier](https://endangered-species-app-2024-626612794e72.herokuapp.com/)  
 - **Description**: Image classification model to identify endangered species using pre-trained architectures.  
 - **Technologies**: PyTorch, MLflow, Docker.  
 
-### 3. [Credit Card Fraud Detection](https://github.com/AlexandrosPol/credit-card-fraud-detection)  
+### 3. [Emotion Classifier API](https://emotion-classifier-app-636425c67bdf.herokuapp.com/docs)  
+- **Description**: FastAPI-based application for image emotion classification ("happy" or "sad"). Deployed on Heroku.  
+- **Technologies**: TensorFlow, FastAPI, Heroku, Docker, HTML/CSS/JavaScript.  
+
+### 4. [Credit Card Fraud Detection](https://github.com/AlexandrosPol/Data-Science-Projects/tree/main/Credit%20Card%20Fraud%20Detection)  
 - **Description**: Deep learning model for detecting fraudulent transactions in imbalanced datasets.  
-- **Technologies**: PyTorch, SMOTE.  
+- **Technologies**: PyTorch, SMOTE.   
 
-### 4. [Sentiment Analysis for Tourism Insights](https://github.com/AlexandrosPol/tourism-sentiment-analysis)  
-- **Description**: Analyzing Google Maps reviews of Petra to classify sentiments using BERT.  
-- **Technologies**: RoBERTa, DistilBERT, PyTorch, Chart.js.  
-
-### 5. [Digit Recognizer - LSTM Model](https://github.com/AlexandrosPol/digit-recognizer)  
+### 5. [Digit Recognizer - LSTM Model](https://github.com/AlexandrosPol/Data-Science-Projects/tree/main/Digit%20Recognizer%20-%20LSTM%20Model)  
 - **Description**: Sequence model to classify handwritten digits using LSTM.  
 - **Technologies**: PyTorch, MNIST dataset.  
 
