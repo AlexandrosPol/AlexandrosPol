@@ -29,8 +29,8 @@ I specialize in building impactful machine learning solutions for logistics, e-c
 
 ## 🎓 **Education**  
 - **M.S., Data Science & Machine Learning** - Hellenic Open University
-- **M.S., Logistics & Supply Chain Management** - Aristotle University of Thessaloniki
-- **B.S., Economics** - Aristotle University of Thessaloniki
+- **M.S., Logistics & Supply Chain Management** - Aristotle University
+- **B.S., Economics** - Aristotle University
 
 ---
 
