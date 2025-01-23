@@ -1,17 +1,16 @@
-# 👨‍💻 Alexandros Polyzoidis  
+# 👋 Hi there! I'm Alexandros Polyzoidis  
 
-**Data Scientist | Machine Learning Engineer | Cloud Enthusiast**  
-
----
-
-## 📖 **About Me**  
-I am a data scientist with expertise in logistics, e-commerce, and finance, leveraging machine learning and data analysis to deliver impactful solutions. My projects demonstrate skills in customer segmentation, computer vision, deep learning, and data visualization. Certified as an Azure Data Scientist Associate, I combine technical expertise with real-world experience to solve business challenges.
+🎓 **Data Scientist** | 💻 **Machine Learning Engineer** | ☁️ **Cloud Enthusiast**
 
 ---
 
-## 🚀 **Projects**
+I specialize in building impactful machine learning solutions for logistics, e-commerce, and finance. My expertise includes deep learning, computer vision, and customer segmentation, with certifications in Microsoft Azure Data Science.
+
+---
+
+## 🚀 **Key Projects**  
 ### 1. [Sentiment Analysis for Tourism Insights](https://www.petrareviewsai.com/)  
-- **Description**: Analyzing Google Maps and Tripadvisor reviews of Petra to classify sentiments using BERT.  
+- **Description**: Analyzing Google Maps and Tripadvisor reviews of Petra to classify sentiments using transformer models.  
 - **Technologies**: RoBERTa, DistilBERT, PyTorch, Chart.js.
 
 ### 2. [Endangered Species Classifier](https://endangered-species-app-2024-626612794e72.herokuapp.com/)  
@@ -25,10 +24,6 @@ I am a data scientist with expertise in logistics, e-commerce, and finance, leve
 ### 4. [Credit Card Fraud Detection](https://github.com/AlexandrosPol/Data-Science-Projects/tree/main/Credit%20Card%20Fraud%20Detection)  
 - **Description**: Deep learning model for detecting fraudulent transactions in imbalanced datasets.  
 - **Technologies**: PyTorch, SMOTE.   
-
-### 5. [Digit Recognizer - LSTM Model](https://github.com/AlexandrosPol/Data-Science-Projects/tree/main/Digit%20Recognizer%20-%20LSTM%20Model)  
-- **Description**: Sequence model to classify handwritten digits using LSTM.  
-- **Technologies**: PyTorch, MNIST dataset.  
 
 ---
 
@@ -58,6 +53,12 @@ I am a data scientist with expertise in logistics, e-commerce, and finance, leve
 
 ## 📊 **Data Visualizations**  
 Explore my work on [Tableau Public](https://public.tableau.com/app/profile/alexandros.polyzoidis/vizzes), showcasing a range of data stories.  
+
+---
+
+## 📈 **GitHub Stats**
+![Alexandros's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexandrosPol&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrosPol&layout=compact&theme=radical)
 
 ---
 
