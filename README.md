@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Alexandros Polyzoidis  
 
-💻 **Machine Learning Engineer** | 🎓 **Data Scientist** | ☁️ **Cloud Enthusiast**
+💻 **Machine Learning Engineer**  |  🎓 **Data Scientist**  |  ☁️ **Cloud Enthusiast**
 
 ---
 
