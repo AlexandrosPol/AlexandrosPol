@@ -4,7 +4,7 @@
 
 ---
 
-I specialize in building impactful machine learning solutions for logistics, e-commerce, and finance. My expertise includes deep learning, computer vision, and customer segmentation, with certifications in Microsoft Azure Data Science.
+I specialize in building impactful machine learning solutions for logistics, e-commerce, and finance. My expertise includes deep learning, natural language processing, computer vision, and customer segmentation, with certifications in Microsoft Azure Data Science.
 
 ---
 
