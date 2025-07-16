@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm Alexandros Polyzoidis  
+# Hi there! I'm Alexandros Polyzoidis  
 
-💻 **Machine Learning Engineer**  |  🎓 **Data Scientist**  |  ☁️ **Cloud Enthusiast**
+**Machine Learning Engineer**  |  **Data Scientist**  |  **AI Engineer**
 
 ---
 
@@ -8,7 +8,7 @@ I specialize in building impactful machine learning solutions for logistics, e-c
 
 ---
 
-## 🚀 **Key Projects**  
+## **Key Projects**  
 ### 1. [Sentiment Analysis for Tourism Insights](https://www.petrareviewsai.com/)  
 - **Description**: Analyzing Google Maps and Tripadvisor reviews of Petra to classify sentiments using transformer models.  
 - **Technologies**: RoBERTa, DistilBERT, PyTorch, Chart.js.
@@ -27,22 +27,21 @@ I specialize in building impactful machine learning solutions for logistics, e-c
 
 ---
 
-## 🎓 **Education**  
+## **Education**  
 - **M.S., Data Science & Machine Learning** - Hellenic Open University
 - **M.S., Logistics & Supply Chain Management** - Aristotle University
 - **B.S., Economics** - Aristotle University
 
 ---
 
-## 🛠️ **Skills & Technologies**  
-- **Programming**: Python (TensorFlow, PyTorch), R, SQL  
-- **Cloud**: Microsoft Azure (Data Factory, Synapse, Databricks)  
-- **Data Visualization**: Tableau, Matplotlib, Power BI  
-- **Tools**: MLflow, FastAPI, Docker, Apache Spark  
-
+## **Skills & Technologies**  
+- **Programming**: Python (TensorFlow, PyTorch, Scikit-Learn, Pandas, Numpy, Pydantic, OpenCV, Pyspark), R, SQL  
+- **Cloud**: Microsoft Azure (Data Factory, Synapse, Databricks, ML Studio, AI Services, Blob Storage, Container Registry, App Services, Active Directory, Key Vault), Amazon Web Services(IAM, S3, EC2), Heroku
+- **Data Visualization**: Tableau, Power BI, Seaborn, Matplotlib 
+- **MLOps and Deployment Tools**: MLflow, FastAPI, Docker, DVC, Git, Grafana, Evidently
 ---
 
-## 📜 **Certifications**  
+## **Certifications**  
 - **Microsoft Certified: Azure Data Scientist Associate**  
 - **Python A-Z™**  
 - **R Programming A-Z™**  
@@ -51,16 +50,16 @@ I specialize in building impactful machine learning solutions for logistics, e-c
 
 ---
 
-## 📊 **Data Visualizations**  
+## **Data Visualizations**  
 Explore my work on [Tableau Public](https://public.tableau.com/app/profile/alexandros.polyzoidis/vizzes), showcasing a range of data stories.  
 
 ---
 
-### 📫 **Contact**  
+### **Contact**  
 I am open to collaborations and new opportunities! Feel free to reach out:  
 
-- 💼 **[LinkedIn](https://www.linkedin.com/in/alexandrospolyzoidis/)**  
-- 🌐 **[Personal Website](https://alexandrospol.github.io/)**  
-- 📧 **[Email](mailto:apolyzoidis@hotmail.com)**  
+- **[LinkedIn](https://www.linkedin.com/in/alexandrospolyzoidis/)**  
+- **[Personal Website](https://alexandrospol.github.io/)**  
+- **[Email](mailto:apolyzoidis@hotmail.com)**  
 
 ---
